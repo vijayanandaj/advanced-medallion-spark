@@ -3,6 +3,9 @@
 > Session 2 (Advanced): production-grade Medallion with Spark — incremental, streaming, CDC, replay/late data, performance tuning, and ops.
 
 ## Executive Overview
+
+> See **[Program Overview](docs/overview.md)** and the **[Four-Day Agenda](docs/agenda.md)**.
+
 This is a **code-backed advanced training portfolio**. Each topic has runnable notebook-style scripts and synthetic datasets.
 
 - **Focus**: real-time ingestion, incremental & idempotent pipelines, CDC, late data, Spark performance, Delta optimization, ops.
