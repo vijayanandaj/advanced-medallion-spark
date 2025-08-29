@@ -24,3 +24,5 @@ pip install -r requirements.txt
 python datasets/generate_clickstream.py
 
 > Workspace setup: see **[Secrets & Config](docs/secrets-and-config.md)**.
+
+> **Optional:** Local Spark/Delta smoke requires a JDK. If you don’t want to install Java now, skip it and run the labs later in Databricks.
