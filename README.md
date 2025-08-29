@@ -4,7 +4,7 @@
 
 ## Executive Overview
 
-> See **[Program Overview](docs/overview.md)** and the **[Four-Day Agenda](docs/agenda.md)**.
+> See **[Program Overview](docs/overview.md)** and the **[Four-Day Agenda (8 Half-Days)](docs/agenda.md)**.
 
 This is a **code-backed advanced training portfolio**. Each topic has runnable notebook-style scripts and synthetic datasets.
 
@@ -13,7 +13,7 @@ This is a **code-backed advanced training portfolio**. Each topic has runnable n
 - **Format**: 4 days (8 half-days)
 - **Prereqs**: Session 1 foundations (Delta, Medallion) or equivalent
 
-> Full plan: **[Program Overview](docs/overview.md)** • **[Four-Day Agenda](docs/agenda.md)**
+> Full plan: **[Program Overview](docs/overview.md)** • **[Four-Day Agenda (8 Half-Days)](docs/agenda.md)**
 
 ## Quick Start
 **Databricks**
